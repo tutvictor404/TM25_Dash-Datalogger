@@ -29,9 +29,14 @@ library (https://github.com/tonton81/FlexCAN_T4) is used by the Teensy 4.1 to se
 
 ![BMS CANbus Messages](/Images/BMS_CANbus_messages.png)
 ## Logging Data onto a MicroSD Card
-All information that is decoded from the CANbus is written to a MicroSD card in the form of .csv files that can be easily reviewed and analyzed in Excel. Each file is individually numbered and reach entry in the files has an associated timestamp with the time since the Teensy 4.1 booted up.
+All information that is decoded from the CANbus is written to a MicroSD card in the form of .csv files that can be easily reviewed and analyzed in Excel. Each file is individually numbered and reach entry in the files has an associated timestamp with the time since the Teensy 4.1 booted up. 
+Some sample logged data files can be reviewed, and the logged .csv files can be converted to Excel Workbook .xlsx files to plot data and further analyze it. Plots of the vehicle motor RPM, motor and motor controller temperatures, and DC/AC currents can be seen below.
+
+![Plotted_Data](/Images/data_plot.png)
 ## Difficulties Experienced
 1. If the values on the display are updated every single time that a message is recieved from the CANbus, for some reason a significant delay of ~2 seconds develops. The way that this issue was overcome is that the display gets updated once every 100 recieved messages. This eliminated the delay that was experienced and still provides relevant data in a timely manner. 
 2. When the Orion BMS 2 measures temperatures from Enepaq battery modules (which is the case here), the second that the modules experience discharge, all temperature readings are lost and the BMS stays in a state where it no longer records any battery temperatures. This is quite unacceptable in an electric vehicle. Fortunately, this shortcoming was somewhat overcome by directly reading the information sent by the thermistor expansion module that reads the temperatures for the BMS. Once the modules stop experiencing discharge (like in a braking zone) the thermistor expansion module begins sending individual Enepaq module temperatures on address 0x1838F380 in bytes 1 and 2. Byte 1 transmits the thermistor number and byte 2 transmitts the associated temperature. Reading this information directly from the thermistor expansion module address ensures that battery temperatures are known.
 
 ## Future Additions
+The board onto which the Teensy 4.1 gets attached has been designed to have a nRF24L01+ PA/LNA module attached to it as well (link: https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/). This is a wireless antenna module with a range of up to 1km. Experimentation would need to 
+be conducted but while logging information, it can also be wirelessly transmitted in real-time to a team base station. This base station would consist of a second nRF24L01+ PA/LNA module, a Teensy 4.0, the TM24 display to show relevant recieved data, and some sort of power supply.
