@@ -1,0 +1,2014 @@
+0x680, Time, 80, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 81, High Cell Voltage, 38694, Low Cell Voltage, 37352, Average Cell Voltage 55040
+0x682, Time, 81, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 81, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 184, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 185, High Cell Voltage, 38695, Low Cell Voltage, 37352, Average Cell Voltage 54784
+0x682, Time, 185, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 185, Input Supply Voltage, 120, Pack Current, 0
+0x680, Time, 288, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 289, High Cell Voltage, 38694, Low Cell Voltage, 37352, Average Cell Voltage 55040
+0x682, Time, 289, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 289, Input Supply Voltage, 120, Pack Current, 0
+0x680, Time, 392, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 393, High Cell Voltage, 38694, Low Cell Voltage, 37353, Average Cell Voltage 55040
+0x682, Time, 393, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 393, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 429, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 433, AC Current, 0, DC Current, 0
+0x251, Time, 437, Controller Temp, 370, Motor Temp, 388, Fault Code, 2
+0x051, Time, 449, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 453, AC Current, 0, DC Current, 0
+0x251, Time, 457, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 469, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 473, AC Current, 0, DC Current, 0
+0x251, Time, 477, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 489, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 493, AC Current, 0, DC Current, 0
+0x680, Time, 496, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 497, High Cell Voltage, 38694, Low Cell Voltage, 37352, Average Cell Voltage 55040
+0x682, Time, 497, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 497, Input Supply Voltage, 120, Pack Current, 0
+0x251, Time, 498, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 509, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 513, AC Current, 0, DC Current, 0
+0x251, Time, 517, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x1839F380, Time, 622, Highest Cell Temp, 27, Average Cell Temp, 6
+0x151, Time, 643, AC Current, 0, DC Current, 0
+0x251, Time, 643, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 643, ERPM, 0, MC Input Voltage, 1
+0x051, Time, 649, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 653, AC Current, 0, DC Current, 0
+0x251, Time, 657, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 669, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 673, AC Current, 0, DC Current, 0
+0x251, Time, 677, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 689, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 693, AC Current, 0, DC Current, 0
+0x251, Time, 697, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 704, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 705, High Cell Voltage, 38695, Low Cell Voltage, 37352, Average Cell Voltage 55040
+0x682, Time, 705, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 705, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 709, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 713, AC Current, 0, DC Current, 0
+0x251, Time, 717, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 729, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 733, AC Current, 0, DC Current, 0
+0x251, Time, 737, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 749, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 753, AC Current, 0, DC Current, 0
+0x251, Time, 757, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 769, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 773, AC Current, 0, DC Current, 0
+0x251, Time, 777, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 789, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 793, AC Current, 0, DC Current, 0
+0x251, Time, 797, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 808, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 809, High Cell Voltage, 38694, Low Cell Voltage, 37352, Average Cell Voltage 55040
+0x682, Time, 809, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 809, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 809, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 813, AC Current, 0, DC Current, 0
+0x251, Time, 817, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 829, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 833, AC Current, 0, DC Current, 0
+0x251, Time, 837, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 849, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 853, AC Current, 0, DC Current, 0
+0x251, Time, 857, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 869, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 873, AC Current, 0, DC Current, 0
+0x251, Time, 877, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 889, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 893, AC Current, 0, DC Current, 0
+0x251, Time, 897, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x1839F380, Time, 992, Highest Cell Temp, 27, Average Cell Temp, 8
+0x051, Time, 1012, ERPM, 0, MC Input Voltage, 1
+0x051, Time, 1012, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1013, AC Current, 0, DC Current, 0
+0x680, Time, 1016, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 1017, High Cell Voltage, 38694, Low Cell Voltage, 37353, Average Cell Voltage 55040
+0x682, Time, 1017, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 1017, Input Supply Voltage, 120, Pack Current, 0
+0x251, Time, 1017, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1029, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1033, AC Current, 0, DC Current, 0
+0x251, Time, 1037, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1049, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1053, AC Current, 0, DC Current, 0
+0x251, Time, 1057, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1069, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1073, AC Current, 0, DC Current, 0
+0x251, Time, 1077, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1089, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1093, AC Current, 0, DC Current, 0
+0x251, Time, 1097, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1109, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1113, AC Current, 0, DC Current, 0
+0x251, Time, 1117, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 1120, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 1121, High Cell Voltage, 38694, Low Cell Voltage, 37353, Average Cell Voltage 55040
+0x682, Time, 1121, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 1121, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 1129, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1133, AC Current, 0, DC Current, 0
+0x251, Time, 1137, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1149, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1153, AC Current, 0, DC Current, 0
+0x251, Time, 1157, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1169, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1173, AC Current, 0, DC Current, 0
+0x251, Time, 1177, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1189, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1193, AC Current, 0, DC Current, 0
+0x251, Time, 1197, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1209, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1213, AC Current, 0, DC Current, 0
+0x251, Time, 1217, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 1224, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 1225, High Cell Voltage, 38694, Low Cell Voltage, 37353, Average Cell Voltage 55040
+0x682, Time, 1225, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 1225, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 1229, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1233, AC Current, 0, DC Current, 0
+0x1839F380, Time, 1330, Highest Cell Temp, 28, Average Cell Temp, 11
+0x051, Time, 1351, ERPM, 0, MC Input Voltage, 1
+0x251, Time, 1351, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x151, Time, 1353, AC Current, 0, DC Current, 0
+0x251, Time, 1357, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1369, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1373, AC Current, 0, DC Current, 0
+0x251, Time, 1377, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1389, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1393, AC Current, 0, DC Current, 0
+0x251, Time, 1397, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1409, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1413, AC Current, 0, DC Current, 0
+0x251, Time, 1417, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1429, ERPM, 0, MC Input Voltage, 1
+0x680, Time, 1432, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 1433, High Cell Voltage, 38695, Low Cell Voltage, 37352, Average Cell Voltage 55040
+0x682, Time, 1433, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 1433, Input Supply Voltage, 120, Pack Current, 0
+0x151, Time, 1433, AC Current, 0, DC Current, 0
+0x251, Time, 1437, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1449, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1453, AC Current, 0, DC Current, 0
+0x251, Time, 1457, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1469, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1473, AC Current, 0, DC Current, 0
+0x251, Time, 1477, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1489, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1493, AC Current, 0, DC Current, 0
+0x251, Time, 1497, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1509, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1513, AC Current, 0, DC Current, 0
+0x251, Time, 1517, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1529, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1533, AC Current, 0, DC Current, 0
+0x680, Time, 1536, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 1537, High Cell Voltage, 38694, Low Cell Voltage, 37353, Average Cell Voltage 55040
+0x682, Time, 1537, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 1537, Input Supply Voltage, 120, Pack Current, 0
+0x251, Time, 1537, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1549, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1553, AC Current, 0, DC Current, 0
+0x251, Time, 1557, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1569, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1573, AC Current, 0, DC Current, 0
+0x251, Time, 1577, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 1589, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1593, AC Current, 0, DC Current, 0
+0x251, Time, 1597, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x1839F380, Time, 1698, Highest Cell Temp, 28, Average Cell Temp, 13
+0x051, Time, 1719, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1719, AC Current, 0, DC Current, 0
+0x251, Time, 1719, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 1729, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1733, AC Current, 0, DC Current, 0
+0x251, Time, 1737, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 1744, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 1745, High Cell Voltage, 38695, Low Cell Voltage, 37353, Average Cell Voltage 55040
+0x682, Time, 1745, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 1745, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 1749, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1753, AC Current, 0, DC Current, 0
+0x251, Time, 1757, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 1769, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1773, AC Current, 0, DC Current, 0
+0x251, Time, 1777, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 1789, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1793, AC Current, 0, DC Current, 0
+0x251, Time, 1797, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 1809, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1813, AC Current, 0, DC Current, 0
+0x251, Time, 1817, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 1829, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1833, AC Current, 0, DC Current, 0
+0x251, Time, 1837, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 1848, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 1849, High Cell Voltage, 38694, Low Cell Voltage, 37353, Average Cell Voltage 55296
+0x682, Time, 1849, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 1849, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 1849, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1853, AC Current, 0, DC Current, 0
+0x251, Time, 1857, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 1869, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1873, AC Current, 0, DC Current, 0
+0x251, Time, 1877, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 1889, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1893, AC Current, 0, DC Current, 0
+0x251, Time, 1897, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 1909, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1913, AC Current, 0, DC Current, 0
+0x251, Time, 1917, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 1929, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 1933, AC Current, 0, DC Current, 0
+0x251, Time, 1937, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 1949, ERPM, 0, MC Input Voltage, 1
+0x680, Time, 1952, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x1839F380, Time, 2049, Highest Cell Temp, 28, Average Cell Temp, 15
+0x682, Time, 2070, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 2070, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 2070, ERPM, 0, MC Input Voltage, 1
+0x683, Time, 2070, High Cell Voltage, 38696, Low Cell Voltage, 37354, Average Cell Voltage 55296
+0x151, Time, 2073, AC Current, 0, DC Current, 0
+0x251, Time, 2077, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2089, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2093, AC Current, 0, DC Current, 0
+0x251, Time, 2097, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2109, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2113, AC Current, 0, DC Current, 0
+0x251, Time, 2117, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2129, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2133, AC Current, 0, DC Current, 0
+0x251, Time, 2137, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2149, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2153, AC Current, 0, DC Current, 0
+0x251, Time, 2157, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 2160, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 2161, High Cell Voltage, 38696, Low Cell Voltage, 37353, Average Cell Voltage 55296
+0x682, Time, 2161, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 2161, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 2169, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2173, AC Current, 0, DC Current, 0
+0x251, Time, 2177, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2189, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2193, AC Current, 0, DC Current, 0
+0x251, Time, 2197, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2209, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2213, AC Current, 0, DC Current, 0
+0x251, Time, 2217, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2229, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2233, AC Current, 0, DC Current, 0
+0x251, Time, 2237, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2249, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2253, AC Current, 0, DC Current, 0
+0x251, Time, 2257, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 2264, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 2265, High Cell Voltage, 38695, Low Cell Voltage, 37354, Average Cell Voltage 55296
+0x682, Time, 2265, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 2265, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 2269, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2273, AC Current, 0, DC Current, 0
+0x251, Time, 2277, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2289, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2293, AC Current, 0, DC Current, 0
+0x251, Time, 2297, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2309, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2313, AC Current, 0, DC Current, 0
+0x1839F380, Time, 2409, Highest Cell Temp, 28, Average Cell Temp, 17
+0x051, Time, 2430, ERPM, 0, MC Input Voltage, 1
+0x251, Time, 2430, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x151, Time, 2433, AC Current, 0, DC Current, 0
+0x251, Time, 2437, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2449, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2453, AC Current, 0, DC Current, 0
+0x251, Time, 2457, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2469, ERPM, 0, MC Input Voltage, 1
+0x680, Time, 2472, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 2473, High Cell Voltage, 38695, Low Cell Voltage, 37353, Average Cell Voltage 55296
+0x682, Time, 2473, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 2473, Input Supply Voltage, 120, Pack Current, 0
+0x151, Time, 2473, AC Current, 0, DC Current, 0
+0x251, Time, 2477, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2489, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2493, AC Current, 0, DC Current, 0
+0x251, Time, 2497, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2509, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2513, AC Current, 0, DC Current, 0
+0x251, Time, 2517, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2529, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2533, AC Current, 0, DC Current, 0
+0x251, Time, 2537, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2549, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2553, AC Current, 0, DC Current, 0
+0x251, Time, 2557, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2569, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2573, AC Current, 0, DC Current, 0
+0x680, Time, 2576, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 2577, High Cell Voltage, 38695, Low Cell Voltage, 37353, Average Cell Voltage 55296
+0x682, Time, 2577, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 2577, Input Supply Voltage, 120, Pack Current, 0
+0x251, Time, 2577, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2589, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2593, AC Current, 0, DC Current, 0
+0x251, Time, 2597, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2609, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2613, AC Current, 0, DC Current, 0
+0x251, Time, 2617, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2629, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2633, AC Current, 0, DC Current, 0
+0x251, Time, 2637, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2649, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2653, AC Current, 0, DC Current, 0
+0x251, Time, 2657, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 2669, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2673, AC Current, 0, DC Current, 0
+0x251, Time, 2677, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x1839F380, Time, 2773, Highest Cell Temp, 28, Average Cell Temp, 20
+0x683, Time, 2794, High Cell Voltage, 38695, Low Cell Voltage, 37355, Average Cell Voltage 55296
+0x682, Time, 2794, Pack Amphours, 169, Internal Temp, 24
+0x151, Time, 2794, AC Current, 0, DC Current, 0
+0x680, Time, 2794, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x251, Time, 2797, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 2809, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2813, AC Current, 0, DC Current, 0
+0x251, Time, 2817, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 2829, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2833, AC Current, 0, DC Current, 0
+0x251, Time, 2837, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 2849, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2853, AC Current, 0, DC Current, 0
+0x251, Time, 2857, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 2869, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2873, AC Current, 0, DC Current, 0
+0x251, Time, 2877, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 2888, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 2889, High Cell Voltage, 38695, Low Cell Voltage, 37355, Average Cell Voltage 55296
+0x682, Time, 2889, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 2889, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 2889, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2893, AC Current, 0, DC Current, 0
+0x251, Time, 2897, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 2909, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2913, AC Current, 0, DC Current, 0
+0x251, Time, 2917, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 2929, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2933, AC Current, 0, DC Current, 0
+0x251, Time, 2937, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 2949, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2953, AC Current, 0, DC Current, 0
+0x251, Time, 2957, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 2969, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 2973, AC Current, 0, DC Current, 0
+0x251, Time, 2977, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 2989, ERPM, 0, MC Input Voltage, 1
+0x680, Time, 2992, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 2993, High Cell Voltage, 38694, Low Cell Voltage, 37354, Average Cell Voltage 55296
+0x682, Time, 2993, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 2993, Input Supply Voltage, 120, Pack Current, 0
+0x151, Time, 2994, AC Current, 0, DC Current, 0
+0x251, Time, 2997, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3009, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3013, AC Current, 0, DC Current, 0
+0x251, Time, 3017, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x1839F380, Time, 3121, Highest Cell Temp, 28, Average Cell Temp, 20
+0x051, Time, 3142, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3142, AC Current, 0, DC Current, 0
+0x051, Time, 3149, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3153, AC Current, 0, DC Current, 0
+0x251, Time, 3157, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3169, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3173, AC Current, 0, DC Current, 0
+0x251, Time, 3177, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3189, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3193, AC Current, 0, DC Current, 0
+0x251, Time, 3197, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 3200, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 3201, High Cell Voltage, 38696, Low Cell Voltage, 37354, Average Cell Voltage 55296
+0x682, Time, 3201, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 3201, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 3209, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3213, AC Current, 0, DC Current, 0
+0x251, Time, 3217, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3229, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3233, AC Current, 0, DC Current, 0
+0x251, Time, 3237, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3249, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3253, AC Current, 0, DC Current, 0
+0x251, Time, 3257, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3269, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3273, AC Current, 0, DC Current, 0
+0x251, Time, 3277, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3289, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3293, AC Current, 0, DC Current, 0
+0x251, Time, 3297, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 3304, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 3305, High Cell Voltage, 38695, Low Cell Voltage, 37354, Average Cell Voltage 55296
+0x682, Time, 3305, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 3305, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 3309, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3313, AC Current, 0, DC Current, 0
+0x251, Time, 3317, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3329, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3333, AC Current, 0, DC Current, 0
+0x251, Time, 3337, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3349, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3353, AC Current, 0, DC Current, 0
+0x251, Time, 3357, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3369, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3373, AC Current, 0, DC Current, 0
+0x251, Time, 3377, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3389, ERPM, 0, MC Input Voltage, 1
+0x1839F380, Time, 3490, Highest Cell Temp, 28, Average Cell Temp, 21
+0x151, Time, 3510, AC Current, 0, DC Current, 0
+0x251, Time, 3510, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3510, ERPM, 0, MC Input Voltage, 1
+0x680, Time, 3512, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 3513, High Cell Voltage, 38695, Low Cell Voltage, 37354, Average Cell Voltage 55296
+0x682, Time, 3513, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 3513, Input Supply Voltage, 120, Pack Current, 0
+0x151, Time, 3513, AC Current, 0, DC Current, 0
+0x251, Time, 3517, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3529, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3533, AC Current, 0, DC Current, 0
+0x251, Time, 3537, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3549, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3553, AC Current, 0, DC Current, 0
+0x251, Time, 3557, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3569, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3573, AC Current, 0, DC Current, 0
+0x251, Time, 3577, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3589, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3593, AC Current, 0, DC Current, 0
+0x251, Time, 3597, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3609, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3613, AC Current, 0, DC Current, 0
+0x680, Time, 3616, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 3617, High Cell Voltage, 38695, Low Cell Voltage, 37355, Average Cell Voltage 55296
+0x682, Time, 3617, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 3617, Input Supply Voltage, 119, Pack Current, 0
+0x251, Time, 3617, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3629, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3633, AC Current, 0, DC Current, 0
+0x251, Time, 3637, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3649, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3653, AC Current, 0, DC Current, 0
+0x251, Time, 3657, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3669, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3673, AC Current, 0, DC Current, 0
+0x251, Time, 3677, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3689, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3693, AC Current, 0, DC Current, 0
+0x251, Time, 3697, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3709, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3713, AC Current, 0, DC Current, 0
+0x251, Time, 3717, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 3720, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 3721, High Cell Voltage, 38696, Low Cell Voltage, 37356, Average Cell Voltage 55552
+0x682, Time, 3721, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 3721, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 3729, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3733, AC Current, 0, DC Current, 0
+0x1839F380, Time, 3830, Highest Cell Temp, 28, Average Cell Temp, 22
+0x051, Time, 3851, ERPM, 0, MC Input Voltage, 1
+0x251, Time, 3851, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x151, Time, 3853, AC Current, 0, DC Current, 0
+0x251, Time, 3857, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3869, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3873, AC Current, 0, DC Current, 0
+0x251, Time, 3877, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3889, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3893, AC Current, 0, DC Current, 0
+0x251, Time, 3897, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3909, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3913, AC Current, 0, DC Current, 0
+0x251, Time, 3917, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 3928, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 3929, High Cell Voltage, 38695, Low Cell Voltage, 37355, Average Cell Voltage 55552
+0x682, Time, 3929, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 3929, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 3930, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3933, AC Current, 0, DC Current, 0
+0x251, Time, 3937, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3949, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3953, AC Current, 0, DC Current, 0
+0x251, Time, 3957, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3969, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3973, AC Current, 0, DC Current, 0
+0x251, Time, 3977, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 3989, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 3993, AC Current, 0, DC Current, 0
+0x251, Time, 3997, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4009, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4013, AC Current, 0, DC Current, 0
+0x251, Time, 4017, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4029, ERPM, 0, MC Input Voltage, 1
+0x680, Time, 4032, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 4033, High Cell Voltage, 38696, Low Cell Voltage, 37355, Average Cell Voltage 55552
+0x682, Time, 4033, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 4033, Input Supply Voltage, 120, Pack Current, 0
+0x151, Time, 4034, AC Current, 0, DC Current, 0
+0x251, Time, 4037, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4049, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4053, AC Current, 0, DC Current, 0
+0x251, Time, 4057, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4069, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4073, AC Current, 0, DC Current, 0
+0x251, Time, 4077, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4089, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4093, AC Current, 0, DC Current, 0
+0x251, Time, 4097, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x1839F380, Time, 4194, Highest Cell Temp, 28, Average Cell Temp, 23
+0x051, Time, 4215, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4215, AC Current, 0, DC Current, 0
+0x251, Time, 4217, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4229, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4233, AC Current, 0, DC Current, 0
+0x251, Time, 4237, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 4240, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 4241, High Cell Voltage, 38696, Low Cell Voltage, 37355, Average Cell Voltage 55552
+0x682, Time, 4241, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 4241, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 4249, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4253, AC Current, 0, DC Current, 0
+0x251, Time, 4257, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4269, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4273, AC Current, 0, DC Current, 0
+0x251, Time, 4277, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4289, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4293, AC Current, 0, DC Current, 0
+0x251, Time, 4297, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4309, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4313, AC Current, 0, DC Current, 0
+0x251, Time, 4317, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4329, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4333, AC Current, 0, DC Current, 0
+0x251, Time, 4337, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 4344, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 4345, High Cell Voltage, 38696, Low Cell Voltage, 37354, Average Cell Voltage 55552
+0x682, Time, 4345, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 4345, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 4349, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4353, AC Current, 0, DC Current, 0
+0x251, Time, 4357, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4369, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4373, AC Current, 0, DC Current, 0
+0x251, Time, 4377, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4389, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4393, AC Current, 0, DC Current, 0
+0x251, Time, 4397, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4409, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4413, AC Current, 0, DC Current, 0
+0x251, Time, 4417, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4429, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4433, AC Current, 0, DC Current, 0
+0x251, Time, 4437, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x1839F380, Time, 4538, Highest Cell Temp, 28, Average Cell Temp, 24
+0x680, Time, 4558, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 4558, High Cell Voltage, 38696, Low Cell Voltage, 37355, Average Cell Voltage 55552
+0x251, Time, 4558, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4569, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4573, AC Current, 0, DC Current, 0
+0x251, Time, 4577, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4589, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4593, AC Current, 0, DC Current, 0
+0x251, Time, 4597, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 4609, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4613, AC Current, 0, DC Current, 0
+0x251, Time, 4617, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 4629, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4633, AC Current, 0, DC Current, 0
+0x251, Time, 4637, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 4649, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4653, AC Current, 0, DC Current, 0
+0x680, Time, 4656, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 4657, High Cell Voltage, 38696, Low Cell Voltage, 37356, Average Cell Voltage 55552
+0x682, Time, 4657, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 4657, Input Supply Voltage, 119, Pack Current, 0
+0x251, Time, 4658, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 4669, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4673, AC Current, 0, DC Current, 0
+0x251, Time, 4677, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 4689, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4693, AC Current, 0, DC Current, 0
+0x251, Time, 4697, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 4709, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4713, AC Current, 0, DC Current, 0
+0x251, Time, 4717, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 4729, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4733, AC Current, 0, DC Current, 0
+0x251, Time, 4737, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 4749, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4753, AC Current, 0, DC Current, 0
+0x251, Time, 4757, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 4760, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 4761, High Cell Voltage, 38696, Low Cell Voltage, 37355, Average Cell Voltage 55552
+0x682, Time, 4761, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 4761, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 4769, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4773, AC Current, 0, DC Current, 0
+0x251, Time, 4777, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 4789, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4793, AC Current, 0, DC Current, 0
+0x251, Time, 4797, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x1839F380, Time, 4897, Highest Cell Temp, 28, Average Cell Temp, 25
+0x051, Time, 4918, ERPM, 0, MC Input Voltage, 1
+0x251, Time, 4918, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4929, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4933, AC Current, 0, DC Current, 0
+0x251, Time, 4937, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4949, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4953, AC Current, 0, DC Current, 0
+0x251, Time, 4957, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 4968, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 4969, High Cell Voltage, 38696, Low Cell Voltage, 37356, Average Cell Voltage 55552
+0x682, Time, 4969, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 4969, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 4970, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4973, AC Current, 0, DC Current, 0
+0x251, Time, 4977, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 4989, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 4993, AC Current, 0, DC Current, 0
+0x251, Time, 4997, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5009, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5013, AC Current, 0, DC Current, 0
+0x251, Time, 5017, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5029, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5033, AC Current, 0, DC Current, 0
+0x251, Time, 5036, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5049, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5053, AC Current, 0, DC Current, 0
+0x251, Time, 5057, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5069, ERPM, 0, MC Input Voltage, 1
+0x680, Time, 5072, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 5073, High Cell Voltage, 38697, Low Cell Voltage, 37356, Average Cell Voltage 55552
+0x682, Time, 5073, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 5073, Input Supply Voltage, 120, Pack Current, 0
+0x151, Time, 5074, AC Current, 0, DC Current, 0
+0x251, Time, 5077, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5089, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5093, AC Current, 0, DC Current, 0
+0x251, Time, 5097, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5109, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5113, AC Current, 0, DC Current, 0
+0x251, Time, 5117, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5129, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5133, AC Current, 0, DC Current, 0
+0x251, Time, 5137, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x1839F380, Time, 5241, Highest Cell Temp, 28, Average Cell Temp, 26
+0x051, Time, 5262, ERPM, 0, MC Input Voltage, 2
+0x151, Time, 5262, AC Current, 0, DC Current, 0
+0x051, Time, 5269, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5273, AC Current, 0, DC Current, 0
+0x251, Time, 5276, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 5280, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 5281, High Cell Voltage, 38696, Low Cell Voltage, 37356, Average Cell Voltage 55552
+0x682, Time, 5281, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 5281, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 5289, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5293, AC Current, 0, DC Current, 0
+0x251, Time, 5296, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5309, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5313, AC Current, 0, DC Current, 0
+0x251, Time, 5316, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5329, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5333, AC Current, 0, DC Current, 0
+0x251, Time, 5337, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5349, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5353, AC Current, 0, DC Current, 0
+0x251, Time, 5356, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5369, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5373, AC Current, 0, DC Current, 0
+0x251, Time, 5377, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 5384, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 5385, High Cell Voltage, 38697, Low Cell Voltage, 37355, Average Cell Voltage 55552
+0x682, Time, 5385, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 5385, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 5389, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5393, AC Current, 0, DC Current, 0
+0x251, Time, 5396, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5409, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5413, AC Current, 0, DC Current, 0
+0x251, Time, 5417, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5429, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5433, AC Current, 0, DC Current, 0
+0x251, Time, 5436, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5449, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5453, AC Current, 0, DC Current, 0
+0x251, Time, 5456, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5469, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5473, AC Current, 0, DC Current, 0
+0x251, Time, 5476, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 5488, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 5489, High Cell Voltage, 38697, Low Cell Voltage, 37356, Average Cell Voltage 55552
+0x682, Time, 5489, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 5489, Input Supply Voltage, 120, Pack Current, 0
+0x1839F380, Time, 5586, Highest Cell Temp, 28, Average Cell Temp, 26
+0x151, Time, 5607, AC Current, 0, DC Current, 0
+0x251, Time, 5607, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5607, ERPM, 0, MC Input Voltage, 1
+0x051, Time, 5609, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5613, AC Current, 0, DC Current, 0
+0x251, Time, 5617, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5629, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5633, AC Current, 0, DC Current, 0
+0x251, Time, 5636, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5649, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5653, AC Current, 0, DC Current, 0
+0x251, Time, 5656, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5669, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5673, AC Current, 0, DC Current, 0
+0x251, Time, 5676, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5689, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5693, AC Current, 0, DC Current, 0
+0x680, Time, 5696, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 5697, High Cell Voltage, 38696, Low Cell Voltage, 37356, Average Cell Voltage 55552
+0x682, Time, 5697, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 5697, Input Supply Voltage, 120, Pack Current, 0
+0x251, Time, 5698, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5709, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5713, AC Current, 0, DC Current, 0
+0x251, Time, 5716, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5729, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5733, AC Current, 0, DC Current, 0
+0x251, Time, 5736, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5749, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5753, AC Current, 0, DC Current, 0
+0x251, Time, 5756, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5769, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5773, AC Current, 0, DC Current, 0
+0x251, Time, 5776, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 5789, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5793, AC Current, 0, DC Current, 0
+0x251, Time, 5796, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 5800, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 5801, High Cell Voltage, 38697, Low Cell Voltage, 37357, Average Cell Voltage 55808
+0x682, Time, 5801, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 5801, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 5809, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5813, AC Current, 0, DC Current, 0
+0x251, Time, 5816, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 5829, ERPM, 0, MC Input Voltage, 1
+0x1839F380, Time, 5926, Highest Cell Temp, 28, Average Cell Temp, 26
+0x251, Time, 5947, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x151, Time, 5947, AC Current, 0, DC Current, 0
+0x051, Time, 5949, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5953, AC Current, 0, DC Current, 0
+0x251, Time, 5956, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 5969, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5973, AC Current, 0, DC Current, 0
+0x251, Time, 5976, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 5989, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 5993, AC Current, 0, DC Current, 0
+0x251, Time, 5996, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 6008, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 6009, High Cell Voltage, 38697, Low Cell Voltage, 37356, Average Cell Voltage 55808
+0x682, Time, 6009, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 6009, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 6010, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6013, AC Current, 0, DC Current, 0
+0x251, Time, 6017, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 6029, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6033, AC Current, 0, DC Current, 0
+0x251, Time, 6036, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 6049, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6053, AC Current, 0, DC Current, 0
+0x251, Time, 6056, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 6069, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6073, AC Current, 0, DC Current, 0
+0x251, Time, 6076, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 6089, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6092, AC Current, 0, DC Current, 0
+0x251, Time, 6096, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 6109, ERPM, 0, MC Input Voltage, 1
+0x680, Time, 6112, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 6113, High Cell Voltage, 38697, Low Cell Voltage, 37356, Average Cell Voltage 55808
+0x682, Time, 6113, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 6113, Input Supply Voltage, 120, Pack Current, 0
+0x151, Time, 6114, AC Current, 0, DC Current, 0
+0x251, Time, 6116, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 6129, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6132, AC Current, 0, DC Current, 0
+0x251, Time, 6136, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 6149, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6153, AC Current, 0, DC Current, 0
+0x251, Time, 6156, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 6169, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6172, AC Current, 0, DC Current, 0
+0x251, Time, 6176, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 6189, ERPM, 0, MC Input Voltage, 1
+0x1839F380, Time, 6286, Highest Cell Temp, 28, Average Cell Temp, 26
+0x251, Time, 6307, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x151, Time, 6307, AC Current, 0, DC Current, 0
+0x051, Time, 6309, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6313, AC Current, 0, DC Current, 0
+0x251, Time, 6316, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 6320, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 6321, High Cell Voltage, 38697, Low Cell Voltage, 37356, Average Cell Voltage 55808
+0x682, Time, 6321, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 6321, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 6328, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6332, AC Current, 0, DC Current, 0
+0x251, Time, 6337, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 6348, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6352, AC Current, 0, DC Current, 0
+0x251, Time, 6356, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 6369, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6372, AC Current, 0, DC Current, 0
+0x251, Time, 6376, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 6389, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6393, AC Current, 0, DC Current, 0
+0x251, Time, 6396, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6409, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6412, AC Current, 0, DC Current, 0
+0x251, Time, 6416, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 6424, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 6425, High Cell Voltage, 38697, Low Cell Voltage, 37357, Average Cell Voltage 55808
+0x682, Time, 6425, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 6425, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 6428, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6432, AC Current, 0, DC Current, 0
+0x251, Time, 6436, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6449, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6452, AC Current, 0, DC Current, 0
+0x251, Time, 6456, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6468, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6472, AC Current, 0, DC Current, 0
+0x251, Time, 6476, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6488, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6492, AC Current, 0, DC Current, 0
+0x251, Time, 6496, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6509, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6513, AC Current, 0, DC Current, 0
+0x251, Time, 6516, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 6528, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 6529, High Cell Voltage, 38698, Low Cell Voltage, 37357, Average Cell Voltage 55808
+0x682, Time, 6529, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 6529, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 6530, ERPM, 0, MC Input Voltage, 1
+0x1839F380, Time, 6624, Highest Cell Temp, 28, Average Cell Temp, 26
+0x151, Time, 6645, AC Current, 0, DC Current, 0
+0x251, Time, 6645, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6648, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6652, AC Current, 0, DC Current, 0
+0x251, Time, 6656, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6668, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6673, AC Current, 0, DC Current, 0
+0x251, Time, 6676, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6689, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6692, AC Current, 0, DC Current, 0
+0x251, Time, 6697, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6708, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6713, AC Current, 0, DC Current, 0
+0x251, Time, 6716, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6729, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6732, AC Current, 0, DC Current, 0
+0x680, Time, 6736, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 6737, High Cell Voltage, 38697, Low Cell Voltage, 37357, Average Cell Voltage 55808
+0x682, Time, 6737, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 6737, Input Supply Voltage, 120, Pack Current, 0
+0x251, Time, 6738, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6748, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6753, AC Current, 0, DC Current, 0
+0x251, Time, 6756, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6768, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6772, AC Current, 0, DC Current, 0
+0x251, Time, 6777, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6788, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6793, AC Current, 0, DC Current, 0
+0x251, Time, 6796, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6808, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6812, AC Current, 0, DC Current, 0
+0x251, Time, 6816, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6828, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6833, AC Current, 0, DC Current, 0
+0x251, Time, 6836, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 6840, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 6841, High Cell Voltage, 38697, Low Cell Voltage, 37357, Average Cell Voltage 55808
+0x682, Time, 6841, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 6841, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 6849, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6852, AC Current, 0, DC Current, 0
+0x251, Time, 6857, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 6868, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 6872, AC Current, 0, DC Current, 0
+0x251, Time, 6876, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x1839F380, Time, 6982, Highest Cell Temp, 28, Average Cell Temp, 26
+0x051, Time, 7003, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7003, AC Current, 0, DC Current, 0
+0x251, Time, 7003, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 7009, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7012, AC Current, 0, DC Current, 0
+0x251, Time, 7017, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 7028, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7033, AC Current, 0, DC Current, 0
+0x251, Time, 7036, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 7048, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 7049, High Cell Voltage, 38698, Low Cell Voltage, 37357, Average Cell Voltage 55808
+0x682, Time, 7049, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 7049, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 7050, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7052, AC Current, 0, DC Current, 0
+0x251, Time, 7056, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 7068, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7073, AC Current, 0, DC Current, 0
+0x251, Time, 7076, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 7089, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7092, AC Current, 0, DC Current, 0
+0x251, Time, 7097, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 7108, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7112, AC Current, 0, DC Current, 0
+0x251, Time, 7116, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 7128, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7132, AC Current, 0, DC Current, 0
+0x251, Time, 7136, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 7148, ERPM, 0, MC Input Voltage, 1
+0x680, Time, 7152, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 7153, High Cell Voltage, 38697, Low Cell Voltage, 37357, Average Cell Voltage 55808
+0x682, Time, 7153, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 7153, Input Supply Voltage, 120, Pack Current, 0
+0x151, Time, 7154, AC Current, 0, DC Current, 0
+0x251, Time, 7156, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7168, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7172, AC Current, 0, DC Current, 0
+0x251, Time, 7177, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7188, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7193, AC Current, 0, DC Current, 0
+0x251, Time, 7196, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7208, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7212, AC Current, 0, DC Current, 0
+0x251, Time, 7216, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7228, ERPM, 0, MC Input Voltage, 1
+0x1839F380, Time, 7326, Highest Cell Temp, 28, Average Cell Temp, 26
+0x151, Time, 7347, AC Current, 0, DC Current, 0
+0x251, Time, 7347, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7348, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7352, AC Current, 0, DC Current, 0
+0x251, Time, 7356, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 7360, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 7361, High Cell Voltage, 38698, Low Cell Voltage, 37357, Average Cell Voltage 55808
+0x682, Time, 7361, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 7361, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 7369, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7372, AC Current, 0, DC Current, 0
+0x251, Time, 7377, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7388, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7392, AC Current, 0, DC Current, 0
+0x251, Time, 7396, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7408, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7412, AC Current, 0, DC Current, 0
+0x251, Time, 7417, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7428, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7433, AC Current, 0, DC Current, 0
+0x251, Time, 7436, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7449, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7452, AC Current, 0, DC Current, 0
+0x251, Time, 7456, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 7464, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 7465, High Cell Voltage, 38698, Low Cell Voltage, 37358, Average Cell Voltage 56064
+0x682, Time, 7465, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 7465, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 7468, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7472, AC Current, 0, DC Current, 0
+0x251, Time, 7476, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7489, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7492, AC Current, 0, DC Current, 0
+0x251, Time, 7496, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7508, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7513, AC Current, 0, DC Current, 0
+0x251, Time, 7516, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7529, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7532, AC Current, 0, DC Current, 0
+0x251, Time, 7537, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7548, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7552, AC Current, 0, DC Current, 0
+0x251, Time, 7556, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 7568, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 7569, High Cell Voltage, 38697, Low Cell Voltage, 37357, Average Cell Voltage 55808
+0x682, Time, 7569, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 7569, Input Supply Voltage, 120, Pack Current, 0
+0x051, Time, 7570, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7572, AC Current, 0, DC Current, 0
+0x251, Time, 7576, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x1839F380, Time, 7679, Highest Cell Temp, 28, Average Cell Temp, 26
+0x051, Time, 7699, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7699, AC Current, 0, DC Current, 0
+0x251, Time, 7699, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7708, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7713, AC Current, 0, DC Current, 0
+0x251, Time, 7716, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7728, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7732, AC Current, 0, DC Current, 0
+0x251, Time, 7736, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7748, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7752, AC Current, 0, DC Current, 0
+0x251, Time, 7756, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7769, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7772, AC Current, 0, DC Current, 0
+0x680, Time, 7776, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 7777, High Cell Voltage, 38698, Low Cell Voltage, 37358, Average Cell Voltage 56064
+0x682, Time, 7777, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 7777, Input Supply Voltage, 119, Pack Current, 0
+0x251, Time, 7778, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7788, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7792, AC Current, 0, DC Current, 0
+0x251, Time, 7796, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7808, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7812, AC Current, 0, DC Current, 0
+0x251, Time, 7817, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7828, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7832, AC Current, 0, DC Current, 0
+0x251, Time, 7836, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7849, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7852, AC Current, 0, DC Current, 0
+0x251, Time, 7857, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7868, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7872, AC Current, 0, DC Current, 0
+0x251, Time, 7876, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 7880, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 7881, High Cell Voltage, 38697, Low Cell Voltage, 37357, Average Cell Voltage 56064
+0x682, Time, 7881, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 7881, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 7888, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7892, AC Current, 0, DC Current, 0
+0x251, Time, 7897, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7908, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7912, AC Current, 0, DC Current, 0
+0x251, Time, 7916, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 7929, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 7932, AC Current, 0, DC Current, 0
+0x1839F380, Time, 8027, Highest Cell Temp, 28, Average Cell Temp, 26
+0x251, Time, 8047, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8048, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8052, AC Current, 0, DC Current, 0
+0x251, Time, 8056, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8068, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8072, AC Current, 0, DC Current, 0
+0x251, Time, 8076, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 8088, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 8089, High Cell Voltage, 38698, Low Cell Voltage, 37357, Average Cell Voltage 56064
+0x682, Time, 8089, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 8089, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 8090, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8092, AC Current, 0, DC Current, 0
+0x251, Time, 8096, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8108, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8113, AC Current, 0, DC Current, 0
+0x251, Time, 8116, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8128, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8132, AC Current, 0, DC Current, 0
+0x251, Time, 8137, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8148, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8153, AC Current, 0, DC Current, 0
+0x251, Time, 8156, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8168, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8172, AC Current, 0, DC Current, 0
+0x251, Time, 8176, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8188, ERPM, 0, MC Input Voltage, 1
+0x680, Time, 8192, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 8193, High Cell Voltage, 38699, Low Cell Voltage, 37357, Average Cell Voltage 56064
+0x682, Time, 8193, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 8193, Input Supply Voltage, 119, Pack Current, 0
+0x151, Time, 8194, AC Current, 0, DC Current, 0
+0x251, Time, 8196, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8209, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8212, AC Current, 0, DC Current, 0
+0x251, Time, 8217, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8228, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8233, AC Current, 0, DC Current, 0
+0x251, Time, 8236, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8249, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8252, AC Current, 0, DC Current, 0
+0x251, Time, 8256, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8268, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8273, AC Current, 0, DC Current, 0
+0x251, Time, 8276, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8289, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8292, AC Current, 0, DC Current, 0
+0x1839F380, Time, 8387, Highest Cell Temp, 28, Average Cell Temp, 26
+0x683, Time, 8408, High Cell Voltage, 38698, Low Cell Voltage, 37357, Average Cell Voltage 56064
+0x682, Time, 8408, Pack Amphours, 169, Internal Temp, 24
+0x680, Time, 8408, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 8409, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8412, AC Current, 0, DC Current, 0
+0x251, Time, 8416, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8428, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8433, AC Current, 0, DC Current, 0
+0x251, Time, 8436, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8449, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8452, AC Current, 0, DC Current, 0
+0x251, Time, 8456, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8468, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8472, AC Current, 0, DC Current, 0
+0x251, Time, 8476, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8489, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8492, AC Current, 0, DC Current, 0
+0x251, Time, 8496, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 8504, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 8505, High Cell Voltage, 38699, Low Cell Voltage, 37358, Average Cell Voltage 56064
+0x682, Time, 8505, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 8505, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 8508, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8513, AC Current, 0, DC Current, 0
+0x251, Time, 8516, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8528, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8532, AC Current, 0, DC Current, 0
+0x251, Time, 8537, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8548, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8552, AC Current, 0, DC Current, 0
+0x251, Time, 8556, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8569, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8572, AC Current, 0, DC Current, 0
+0x251, Time, 8576, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8588, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8592, AC Current, 0, DC Current, 0
+0x251, Time, 8596, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 8608, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 8609, High Cell Voltage, 38697, Low Cell Voltage, 37358, Average Cell Voltage 56064
+0x682, Time, 8609, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 8609, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 8610, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8612, AC Current, 0, DC Current, 0
+0x251, Time, 8617, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8628, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8632, AC Current, 0, DC Current, 0
+0x251, Time, 8636, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x1839F380, Time, 8735, Highest Cell Temp, 28, Average Cell Temp, 26
+0x051, Time, 8756, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8756, AC Current, 0, DC Current, 0
+0x151, Time, 8756, AC Current, 0, DC Current, 0
+0x251, Time, 8756, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8769, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8772, AC Current, 0, DC Current, 0
+0x251, Time, 8776, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8788, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8792, AC Current, 0, DC Current, 0
+0x251, Time, 8796, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8809, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8812, AC Current, 0, DC Current, 0
+0x680, Time, 8816, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 8817, High Cell Voltage, 38697, Low Cell Voltage, 37357, Average Cell Voltage 56064
+0x682, Time, 8817, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 8817, Input Supply Voltage, 119, Pack Current, 0
+0x251, Time, 8818, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8828, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8832, AC Current, 0, DC Current, 0
+0x251, Time, 8836, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8848, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8852, AC Current, 0, DC Current, 0
+0x251, Time, 8856, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8868, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8872, AC Current, 0, DC Current, 0
+0x251, Time, 8876, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8889, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8892, AC Current, 0, DC Current, 0
+0x251, Time, 8896, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8908, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8913, AC Current, 0, DC Current, 0
+0x251, Time, 8916, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 8920, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 8921, High Cell Voltage, 38698, Low Cell Voltage, 37357, Average Cell Voltage 56064
+0x682, Time, 8921, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 8921, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 8928, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8932, AC Current, 0, DC Current, 0
+0x251, Time, 8937, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8948, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8952, AC Current, 0, DC Current, 0
+0x251, Time, 8956, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8969, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8972, AC Current, 0, DC Current, 0
+0x251, Time, 8976, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 8988, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 8992, AC Current, 0, DC Current, 0
+0x251, Time, 8996, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x1839F380, Time, 9095, Highest Cell Temp, 28, Average Cell Temp, 26
+0x051, Time, 9115, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9115, AC Current, 0, DC Current, 0
+0x151, Time, 9115, AC Current, 0, DC Current, 0
+0x251, Time, 9116, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 9128, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 9129, High Cell Voltage, 38699, Low Cell Voltage, 37358, Average Cell Voltage 56064
+0x682, Time, 9129, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 9129, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 9130, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9132, AC Current, 0, DC Current, 0
+0x251, Time, 9136, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 9148, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9153, AC Current, 0, DC Current, 0
+0x251, Time, 9156, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9168, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9172, AC Current, 0, DC Current, 0
+0x251, Time, 9177, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9188, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9193, AC Current, 0, DC Current, 0
+0x251, Time, 9196, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9209, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9212, AC Current, 0, DC Current, 0
+0x251, Time, 9216, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9228, ERPM, 0, MC Input Voltage, 1
+0x680, Time, 9232, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 9233, High Cell Voltage, 38697, Low Cell Voltage, 37358, Average Cell Voltage 56064
+0x682, Time, 9233, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 9233, Input Supply Voltage, 119, Pack Current, 0
+0x151, Time, 9234, AC Current, 0, DC Current, 0
+0x251, Time, 9236, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9249, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9252, AC Current, 0, DC Current, 0
+0x251, Time, 9257, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9268, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9272, AC Current, 0, DC Current, 0
+0x251, Time, 9276, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9289, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9292, AC Current, 0, DC Current, 0
+0x251, Time, 9296, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9308, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9312, AC Current, 0, DC Current, 0
+0x251, Time, 9316, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9328, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9332, AC Current, 0, DC Current, 0
+0x251, Time, 9336, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x683, Time, 9337, High Cell Voltage, 38698, Low Cell Voltage, 37358, Average Cell Voltage 56320
+0x682, Time, 9337, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 9337, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 9338, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x1839F380, Time, 9432, Highest Cell Temp, 28, Average Cell Temp, 26
+0x051, Time, 9452, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9452, AC Current, 0, DC Current, 0
+0x251, Time, 9456, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9468, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9472, AC Current, 0, DC Current, 0
+0x251, Time, 9476, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9488, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9492, AC Current, 0, DC Current, 0
+0x251, Time, 9497, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9508, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9512, AC Current, 0, DC Current, 0
+0x251, Time, 9516, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9528, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9532, AC Current, 0, DC Current, 0
+0x251, Time, 9537, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 9544, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 9545, High Cell Voltage, 38698, Low Cell Voltage, 37358, Average Cell Voltage 56064
+0x682, Time, 9545, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 9545, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 9548, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9552, AC Current, 0, DC Current, 0
+0x251, Time, 9556, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9569, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9572, AC Current, 0, DC Current, 0
+0x251, Time, 9576, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9588, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9592, AC Current, 0, DC Current, 0
+0x251, Time, 9596, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9609, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9612, AC Current, 0, DC Current, 0
+0x251, Time, 9616, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9628, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9632, AC Current, 0, DC Current, 0
+0x251, Time, 9636, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 9648, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 9649, High Cell Voltage, 38700, Low Cell Voltage, 37358, Average Cell Voltage 56320
+0x682, Time, 9649, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 9649, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 9650, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9652, AC Current, 0, DC Current, 0
+0x251, Time, 9656, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9668, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9672, AC Current, 0, DC Current, 0
+0x251, Time, 9676, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9689, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9692, AC Current, 0, DC Current, 0
+0x251, Time, 9696, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9708, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9712, AC Current, 0, DC Current, 0
+0x251, Time, 9716, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x1839F380, Time, 9811, Highest Cell Temp, 28, Average Cell Temp, 26
+0x051, Time, 9831, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9832, AC Current, 0, DC Current, 0
+0x251, Time, 9836, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9849, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9852, AC Current, 0, DC Current, 0
+0x680, Time, 9856, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 9857, High Cell Voltage, 38699, Low Cell Voltage, 37358, Average Cell Voltage 56320
+0x682, Time, 9857, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 9857, Input Supply Voltage, 119, Pack Current, 0
+0x251, Time, 9858, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9868, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9872, AC Current, 0, DC Current, 0
+0x251, Time, 9876, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9888, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9892, AC Current, 0, DC Current, 0
+0x251, Time, 9896, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9908, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9912, AC Current, 0, DC Current, 0
+0x251, Time, 9916, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9929, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9932, AC Current, 0, DC Current, 0
+0x251, Time, 9936, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9948, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9952, AC Current, 0, DC Current, 0
+0x251, Time, 9956, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 9960, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 9961, High Cell Voltage, 38698, Low Cell Voltage, 37359, Average Cell Voltage 56320
+0x682, Time, 9961, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 9961, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 9969, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9972, AC Current, 0, DC Current, 0
+0x251, Time, 9976, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 9988, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 9992, AC Current, 0, DC Current, 0
+0x251, Time, 9996, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 10009, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10012, AC Current, 0, DC Current, 0
+0x251, Time, 10016, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 10028, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10032, AC Current, 0, DC Current, 0
+0x251, Time, 10036, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 10048, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10052, AC Current, 0, DC Current, 0
+0x251, Time, 10056, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x680, Time, 10064, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 10065, High Cell Voltage, 38699, Low Cell Voltage, 37358, Average Cell Voltage 56320
+0x682, Time, 10065, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 10065, Input Supply Voltage, 119, Pack Current, 0
+0x1839F380, Time, 10160, Highest Cell Temp, 28, Average Cell Temp, 26
+0x151, Time, 10180, AC Current, 0, DC Current, 0
+0x251, Time, 10181, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 10181, ERPM, 0, MC Input Voltage, 1
+0x051, Time, 10188, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10192, AC Current, 0, DC Current, 0
+0x251, Time, 10196, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 10208, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10212, AC Current, 0, DC Current, 0
+0x251, Time, 10216, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 10228, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10232, AC Current, 0, DC Current, 0
+0x251, Time, 10236, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 10249, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10252, AC Current, 0, DC Current, 0
+0x251, Time, 10256, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 10268, ERPM, 0, MC Input Voltage, 1
+0x680, Time, 10272, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 10273, High Cell Voltage, 38698, Low Cell Voltage, 37359, Average Cell Voltage 56320
+0x682, Time, 10273, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 10273, Input Supply Voltage, 119, Pack Current, 0
+0x151, Time, 10274, AC Current, 0, DC Current, 0
+0x251, Time, 10276, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 10288, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10292, AC Current, 0, DC Current, 0
+0x251, Time, 10297, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 10308, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10313, AC Current, 0, DC Current, 0
+0x251, Time, 10316, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10328, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10332, AC Current, 0, DC Current, 0
+0x251, Time, 10337, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10348, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10352, AC Current, 0, DC Current, 0
+0x251, Time, 10356, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10369, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10372, AC Current, 0, DC Current, 0
+0x251, Time, 10376, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x683, Time, 10377, High Cell Voltage, 38698, Low Cell Voltage, 37358, Average Cell Voltage 56320
+0x682, Time, 10377, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 10377, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 10378, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 10388, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10392, AC Current, 0, DC Current, 0
+0x251, Time, 10396, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10409, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10412, AC Current, 0, DC Current, 0
+0x251, Time, 10416, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x1839F380, Time, 10517, Highest Cell Temp, 28, Average Cell Temp, 26
+0x251, Time, 10538, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10548, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10553, AC Current, 0, DC Current, 0
+0x251, Time, 10556, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10568, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10572, AC Current, 0, DC Current, 0
+0x251, Time, 10576, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 10584, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 10585, High Cell Voltage, 38698, Low Cell Voltage, 37359, Average Cell Voltage 56320
+0x682, Time, 10585, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 10585, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 10588, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10593, AC Current, 0, DC Current, 0
+0x251, Time, 10596, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10609, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10612, AC Current, 0, DC Current, 0
+0x251, Time, 10616, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10628, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10633, AC Current, 0, DC Current, 0
+0x251, Time, 10636, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10648, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10652, AC Current, 0, DC Current, 0
+0x251, Time, 10657, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10668, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10672, AC Current, 0, DC Current, 0
+0x251, Time, 10676, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 10688, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 10689, High Cell Voltage, 38699, Low Cell Voltage, 37359, Average Cell Voltage 56320
+0x682, Time, 10689, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 10689, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 10690, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10692, AC Current, 0, DC Current, 0
+0x251, Time, 10696, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10708, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10712, AC Current, 0, DC Current, 0
+0x251, Time, 10716, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10729, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10732, AC Current, 0, DC Current, 0
+0x251, Time, 10736, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10748, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10753, AC Current, 0, DC Current, 0
+0x251, Time, 10756, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10768, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10772, AC Current, 0, DC Current, 0
+0x251, Time, 10777, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x1839F380, Time, 10879, Highest Cell Temp, 28, Average Cell Temp, 26
+0x051, Time, 10900, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10900, AC Current, 0, DC Current, 0
+0x251, Time, 10900, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10908, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10912, AC Current, 0, DC Current, 0
+0x251, Time, 10916, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10928, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10932, AC Current, 0, DC Current, 0
+0x251, Time, 10936, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10948, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10952, AC Current, 0, DC Current, 0
+0x251, Time, 10956, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10968, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10972, AC Current, 0, DC Current, 0
+0x251, Time, 10977, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 10988, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 10992, AC Current, 0, DC Current, 0
+0x251, Time, 10996, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x680, Time, 11000, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x683, Time, 11001, High Cell Voltage, 38698, Low Cell Voltage, 37359, Average Cell Voltage 56320
+0x682, Time, 11001, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 11001, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 11008, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11012, AC Current, 0, DC Current, 0
+0x251, Time, 11016, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11028, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11033, AC Current, 0, DC Current, 0
+0x251, Time, 11036, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11048, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11052, AC Current, 0, DC Current, 0
+0x251, Time, 11057, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11068, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11072, AC Current, 0, DC Current, 0
+0x251, Time, 11076, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11088, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11092, AC Current, 0, DC Current, 0
+0x251, Time, 11096, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x683, Time, 11105, High Cell Voltage, 38698, Low Cell Voltage, 37359, Average Cell Voltage 56320
+0x682, Time, 11105, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 11105, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 11106, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 11108, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11112, AC Current, 0, DC Current, 0
+0x251, Time, 11116, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11128, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11132, AC Current, 0, DC Current, 0
+0x1839F380, Time, 11227, Highest Cell Temp, 28, Average Cell Temp, 26
+0x251, Time, 11248, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11249, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11252, AC Current, 0, DC Current, 0
+0x251, Time, 11256, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11268, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11272, AC Current, 0, DC Current, 0
+0x251, Time, 11276, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11288, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11292, AC Current, 0, DC Current, 0
+0x251, Time, 11297, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11308, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11312, AC Current, 0, DC Current, 0
+0x683, Time, 11313, High Cell Voltage, 38699, Low Cell Voltage, 37359, Average Cell Voltage 56320
+0x682, Time, 11313, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 11313, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 11314, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x251, Time, 11316, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11328, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11332, AC Current, 0, DC Current, 0
+0x251, Time, 11336, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11348, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11352, AC Current, 0, DC Current, 0
+0x251, Time, 11356, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11368, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11372, AC Current, 0, DC Current, 0
+0x251, Time, 11377, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11388, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11392, AC Current, 0, DC Current, 0
+0x251, Time, 11396, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11408, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11412, AC Current, 0, DC Current, 0
+0x251, Time, 11416, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x683, Time, 11417, High Cell Voltage, 38699, Low Cell Voltage, 37359, Average Cell Voltage 56576
+0x682, Time, 11417, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 11417, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 11418, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 11428, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11432, AC Current, 0, DC Current, 0
+0x251, Time, 11436, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11448, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11452, AC Current, 0, DC Current, 0
+0x251, Time, 11456, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11468, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11472, AC Current, 0, DC Current, 0
+0x251, Time, 11476, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11489, ERPM, 0, MC Input Voltage, 1
+0x1839F380, Time, 11583, Highest Cell Temp, 28, Average Cell Temp, 26
+0x251, Time, 11603, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x151, Time, 11603, AC Current, 0, DC Current, 0
+0x051, Time, 11608, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11612, AC Current, 0, DC Current, 0
+0x251, Time, 11616, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x683, Time, 11625, High Cell Voltage, 38700, Low Cell Voltage, 37360, Average Cell Voltage 56320
+0x682, Time, 11625, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 11625, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 11626, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 11628, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11632, AC Current, 0, DC Current, 0
+0x251, Time, 11636, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11649, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11652, AC Current, 0, DC Current, 0
+0x251, Time, 11656, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11668, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11673, AC Current, 0, DC Current, 0
+0x251, Time, 11676, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11688, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11692, AC Current, 0, DC Current, 0
+0x251, Time, 11696, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11708, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11712, AC Current, 0, DC Current, 0
+0x251, Time, 11716, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11728, ERPM, 0, MC Input Voltage, 1
+0x683, Time, 11729, High Cell Voltage, 38699, Low Cell Voltage, 37360, Average Cell Voltage 56576
+0x682, Time, 11729, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 11729, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 11730, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x151, Time, 11732, AC Current, 0, DC Current, 0
+0x251, Time, 11736, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11748, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11753, AC Current, 0, DC Current, 0
+0x251, Time, 11756, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11768, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11772, AC Current, 0, DC Current, 0
+0x251, Time, 11776, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11788, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11792, AC Current, 0, DC Current, 0
+0x251, Time, 11796, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11809, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11812, AC Current, 0, DC Current, 0
+0x251, Time, 11816, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11828, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11832, AC Current, 0, DC Current, 0
+0x683, Time, 11833, High Cell Voltage, 38699, Low Cell Voltage, 37359, Average Cell Voltage 56576
+0x682, Time, 11833, Pack Amphours, 169, Internal Temp, 24
+0x1839F380, Time, 11927, Highest Cell Temp, 28, Average Cell Temp, 26
+0x680, Time, 11948, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x251, Time, 11948, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x681, Time, 11948, Input Supply Voltage, 119, Pack Current, 0
+0x051, Time, 11948, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11952, AC Current, 0, DC Current, 0
+0x251, Time, 11956, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11969, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11972, AC Current, 0, DC Current, 0
+0x251, Time, 11976, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 11988, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 11993, AC Current, 0, DC Current, 0
+0x251, Time, 11996, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 12008, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12012, AC Current, 0, DC Current, 0
+0x251, Time, 12016, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 12028, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12032, AC Current, 0, DC Current, 0
+0x251, Time, 12036, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x683, Time, 12041, High Cell Voltage, 38698, Low Cell Voltage, 37359, Average Cell Voltage 56576
+0x682, Time, 12041, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 12041, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 12042, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 12049, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12052, AC Current, 0, DC Current, 0
+0x251, Time, 12057, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 12068, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12073, AC Current, 0, DC Current, 0
+0x251, Time, 12076, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 12088, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12092, AC Current, 0, DC Current, 0
+0x251, Time, 12096, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 12108, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12112, AC Current, 0, DC Current, 0
+0x251, Time, 12116, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 12129, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12132, AC Current, 0, DC Current, 0
+0x251, Time, 12136, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x683, Time, 12145, High Cell Voltage, 38700, Low Cell Voltage, 37360, Average Cell Voltage 56576
+0x682, Time, 12145, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 12145, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 12146, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 12148, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12153, AC Current, 0, DC Current, 0
+0x251, Time, 12156, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 12168, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12172, AC Current, 0, DC Current, 0
+0x251, Time, 12176, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 12188, ERPM, 0, MC Input Voltage, 1
+0x1839F380, Time, 12283, Highest Cell Temp, 28, Average Cell Temp, 26
+0x251, Time, 12303, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x151, Time, 12303, AC Current, 0, DC Current, 0
+0x051, Time, 12308, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12313, AC Current, 0, DC Current, 0
+0x251, Time, 12316, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12328, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12332, AC Current, 0, DC Current, 0
+0x251, Time, 12336, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12348, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12352, AC Current, 0, DC Current, 0
+0x683, Time, 12353, High Cell Voltage, 38701, Low Cell Voltage, 37360, Average Cell Voltage 56576
+0x682, Time, 12353, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 12353, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 12354, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x251, Time, 12356, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12369, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12372, AC Current, 0, DC Current, 0
+0x251, Time, 12376, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12388, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12393, AC Current, 0, DC Current, 0
+0x251, Time, 12396, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12408, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12412, AC Current, 0, DC Current, 0
+0x251, Time, 12416, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12428, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12432, AC Current, 0, DC Current, 0
+0x251, Time, 12436, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12449, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12452, AC Current, 0, DC Current, 0
+0x251, Time, 12456, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x683, Time, 12457, High Cell Voltage, 38699, Low Cell Voltage, 37361, Average Cell Voltage 56576
+0x682, Time, 12457, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 12457, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 12458, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 12468, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12472, AC Current, 0, DC Current, 0
+0x251, Time, 12476, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12488, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12492, AC Current, 0, DC Current, 0
+0x251, Time, 12496, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12508, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12513, AC Current, 0, DC Current, 0
+0x251, Time, 12516, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12528, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12532, AC Current, 0, DC Current, 0
+0x251, Time, 12537, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x1839F380, Time, 12639, Highest Cell Temp, 28, Average Cell Temp, 26
+0x151, Time, 12659, AC Current, 0, DC Current, 0
+0x251, Time, 12659, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x251, Time, 12659, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12659, ERPM, 0, MC Input Voltage, 1
+0x683, Time, 12665, High Cell Voltage, 38700, Low Cell Voltage, 37360, Average Cell Voltage 56576
+0x682, Time, 12665, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 12665, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 12666, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 12668, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12672, AC Current, 0, DC Current, 0
+0x251, Time, 12676, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12688, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12692, AC Current, 0, DC Current, 0
+0x251, Time, 12696, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12708, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12712, AC Current, 0, DC Current, 0
+0x251, Time, 12716, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12728, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12732, AC Current, 0, DC Current, 0
+0x251, Time, 12736, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12748, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12752, AC Current, 0, DC Current, 0
+0x251, Time, 12756, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12768, ERPM, 0, MC Input Voltage, 1
+0x683, Time, 12769, High Cell Voltage, 38699, Low Cell Voltage, 37360, Average Cell Voltage 56576
+0x682, Time, 12769, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 12769, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 12770, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x151, Time, 12772, AC Current, 0, DC Current, 0
+0x251, Time, 12776, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12788, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12792, AC Current, 0, DC Current, 0
+0x251, Time, 12796, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12808, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12812, AC Current, 0, DC Current, 0
+0x251, Time, 12816, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12828, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12832, AC Current, 0, DC Current, 0
+0x251, Time, 12836, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12848, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12852, AC Current, 0, DC Current, 0
+0x251, Time, 12856, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12868, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12872, AC Current, 0, DC Current, 0
+0x683, Time, 12873, High Cell Voltage, 38700, Low Cell Voltage, 37361, Average Cell Voltage 56576
+0x682, Time, 12873, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 12873, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 12874, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x251, Time, 12876, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 12888, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 12892, AC Current, 0, DC Current, 0
+0x1839F380, Time, 12987, Highest Cell Temp, 28, Average Cell Temp, 26
+0x251, Time, 13007, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13008, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13012, AC Current, 0, DC Current, 0
+0x251, Time, 13016, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13028, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13032, AC Current, 0, DC Current, 0
+0x251, Time, 13036, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13048, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13052, AC Current, 0, DC Current, 0
+0x251, Time, 13056, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13068, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13072, AC Current, 0, DC Current, 0
+0x251, Time, 13076, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x683, Time, 13081, High Cell Voltage, 38700, Low Cell Voltage, 37360, Average Cell Voltage 56576
+0x682, Time, 13081, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 13081, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 13082, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 13088, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13092, AC Current, 0, DC Current, 0
+0x251, Time, 13096, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13108, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13112, AC Current, 0, DC Current, 0
+0x251, Time, 13116, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13128, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13132, AC Current, 0, DC Current, 0
+0x251, Time, 13136, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13148, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13152, AC Current, 0, DC Current, 0
+0x251, Time, 13156, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13168, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13172, AC Current, 0, DC Current, 0
+0x251, Time, 13176, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x683, Time, 13185, High Cell Voltage, 38699, Low Cell Voltage, 37359, Average Cell Voltage 56576
+0x682, Time, 13185, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 13185, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 13186, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 13188, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13192, AC Current, 0, DC Current, 0
+0x251, Time, 13196, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13208, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13212, AC Current, 0, DC Current, 0
+0x251, Time, 13216, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13228, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13232, AC Current, 0, DC Current, 0
+0x251, Time, 13236, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x1839F380, Time, 13331, Highest Cell Temp, 28, Average Cell Temp, 26
+0x051, Time, 13352, ERPM, 0, MC Input Voltage, 1
+0x051, Time, 13352, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13352, AC Current, 0, DC Current, 0
+0x251, Time, 13356, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13368, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13372, AC Current, 0, DC Current, 0
+0x251, Time, 13376, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13388, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13392, AC Current, 0, DC Current, 0
+0x683, Time, 13393, High Cell Voltage, 38700, Low Cell Voltage, 37361, Average Cell Voltage 56576
+0x682, Time, 13393, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 13393, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 13394, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x251, Time, 13396, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13408, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13412, AC Current, 0, DC Current, 0
+0x251, Time, 13416, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13428, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13432, AC Current, 0, DC Current, 0
+0x251, Time, 13436, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13448, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13452, AC Current, 0, DC Current, 0
+0x251, Time, 13456, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13468, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13472, AC Current, 0, DC Current, 0
+0x251, Time, 13476, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13488, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13492, AC Current, 0, DC Current, 0
+0x251, Time, 13496, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x683, Time, 13497, High Cell Voltage, 38701, Low Cell Voltage, 37360, Average Cell Voltage 56576
+0x682, Time, 13497, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 13497, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 13498, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 13508, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13512, AC Current, 0, DC Current, 0
+0x251, Time, 13516, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13528, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13532, AC Current, 0, DC Current, 0
+0x251, Time, 13536, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13548, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13552, AC Current, 0, DC Current, 0
+0x251, Time, 13556, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13568, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13572, AC Current, 0, DC Current, 0
+0x251, Time, 13576, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13588, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13592, AC Current, 0, DC Current, 0
+0x1839F380, Time, 13686, Highest Cell Temp, 28, Average Cell Temp, 26
+0x683, Time, 13707, High Cell Voltage, 38700, Low Cell Voltage, 37361, Average Cell Voltage 56576
+0x680, Time, 13707, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x251, Time, 13707, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13708, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13712, AC Current, 0, DC Current, 0
+0x251, Time, 13716, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13728, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13732, AC Current, 0, DC Current, 0
+0x251, Time, 13736, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13748, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13752, AC Current, 0, DC Current, 0
+0x251, Time, 13756, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13768, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13772, AC Current, 0, DC Current, 0
+0x251, Time, 13776, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13788, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13792, AC Current, 0, DC Current, 0
+0x251, Time, 13796, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13808, ERPM, 0, MC Input Voltage, 1
+0x683, Time, 13809, High Cell Voltage, 38700, Low Cell Voltage, 37362, Average Cell Voltage 56576
+0x682, Time, 13809, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 13809, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 13810, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x151, Time, 13812, AC Current, 0, DC Current, 0
+0x251, Time, 13816, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13828, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13832, AC Current, 0, DC Current, 0
+0x251, Time, 13836, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13848, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13852, AC Current, 0, DC Current, 0
+0x251, Time, 13856, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13868, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13872, AC Current, 0, DC Current, 0
+0x251, Time, 13876, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13888, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13892, AC Current, 0, DC Current, 0
+0x251, Time, 13896, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13908, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13912, AC Current, 0, DC Current, 0
+0x683, Time, 13913, High Cell Voltage, 38700, Low Cell Voltage, 37362, Average Cell Voltage 56832
+0x682, Time, 13913, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 13913, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 13914, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x251, Time, 13916, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 13928, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 13932, AC Current, 0, DC Current, 0
+0x251, Time, 13936, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x1839F380, Time, 14034, Highest Cell Temp, 28, Average Cell Temp, 26
+0x051, Time, 14055, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14055, AC Current, 0, DC Current, 0
+0x151, Time, 14055, AC Current, 0, DC Current, 0
+0x251, Time, 14056, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14068, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14072, AC Current, 0, DC Current, 0
+0x251, Time, 14076, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14088, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14092, AC Current, 0, DC Current, 0
+0x251, Time, 14096, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14108, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14112, AC Current, 0, DC Current, 0
+0x251, Time, 14116, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x683, Time, 14121, High Cell Voltage, 38702, Low Cell Voltage, 37361, Average Cell Voltage 56832
+0x682, Time, 14121, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 14121, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 14122, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 14128, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14132, AC Current, 0, DC Current, 0
+0x251, Time, 14136, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14148, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14152, AC Current, 0, DC Current, 0
+0x251, Time, 14156, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14168, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14172, AC Current, 0, DC Current, 0
+0x251, Time, 14176, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14188, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14192, AC Current, 0, DC Current, 0
+0x251, Time, 14196, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14208, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14212, AC Current, 0, DC Current, 0
+0x251, Time, 14216, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x683, Time, 14225, High Cell Voltage, 38700, Low Cell Voltage, 37360, Average Cell Voltage 56832
+0x682, Time, 14225, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 14225, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 14226, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 14228, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14232, AC Current, 0, DC Current, 0
+0x251, Time, 14236, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14248, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14252, AC Current, 0, DC Current, 0
+0x251, Time, 14256, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14268, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14272, AC Current, 0, DC Current, 0
+0x251, Time, 14276, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14288, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14292, AC Current, 0, DC Current, 0
+0x251, Time, 14296, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x1839F380, Time, 14390, Highest Cell Temp, 28, Average Cell Temp, 26
+0x051, Time, 14411, ERPM, 0, MC Input Voltage, 1
+0x051, Time, 14411, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14412, AC Current, 0, DC Current, 0
+0x251, Time, 14416, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14428, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14432, AC Current, 0, DC Current, 0
+0x683, Time, 14433, High Cell Voltage, 38701, Low Cell Voltage, 37361, Average Cell Voltage 56832
+0x682, Time, 14433, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 14433, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 14434, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x251, Time, 14436, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14448, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14452, AC Current, 0, DC Current, 0
+0x251, Time, 14456, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14468, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14472, AC Current, 0, DC Current, 0
+0x251, Time, 14476, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14488, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14492, AC Current, 0, DC Current, 0
+0x251, Time, 14496, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14508, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14512, AC Current, 0, DC Current, 0
+0x251, Time, 14516, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14528, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14532, AC Current, 0, DC Current, 0
+0x251, Time, 14536, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x683, Time, 14537, High Cell Voltage, 38700, Low Cell Voltage, 37361, Average Cell Voltage 56832
+0x682, Time, 14537, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 14537, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 14538, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x051, Time, 14548, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14552, AC Current, 0, DC Current, 0
+0x251, Time, 14556, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14568, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14572, AC Current, 0, DC Current, 0
+0x251, Time, 14576, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14588, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14592, AC Current, 0, DC Current, 0
+0x251, Time, 14596, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14608, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14612, AC Current, 0, DC Current, 0
+0x251, Time, 14616, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x051, Time, 14628, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14632, AC Current, 0, DC Current, 0
+0x251, Time, 14636, Controller Temp, 370, Motor Temp, 390, Fault Code, 2
+0x683, Time, 14641, High Cell Voltage, 38700, Low Cell Voltage, 37360, Average Cell Voltage 56832
+0x682, Time, 14641, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 14641, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 14642, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x1839F380, Time, 14736, Highest Cell Temp, 28, Average Cell Temp, 26
+0x051, Time, 14756, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14756, AC Current, 0, DC Current, 0
+0x251, Time, 14756, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 14768, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14772, AC Current, 0, DC Current, 0
+0x251, Time, 14776, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 14788, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14792, AC Current, 0, DC Current, 0
+0x251, Time, 14796, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 14808, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14812, AC Current, 0, DC Current, 0
+0x251, Time, 14816, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 14828, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14832, AC Current, 0, DC Current, 0
+0x251, Time, 14836, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 14848, ERPM, 0, MC Input Voltage, 1
+0x683, Time, 14849, High Cell Voltage, 38701, Low Cell Voltage, 37362, Average Cell Voltage 56832
+0x682, Time, 14849, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 14849, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 14850, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x151, Time, 14852, AC Current, 0, DC Current, 0
+0x251, Time, 14856, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 14868, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14872, AC Current, 0, DC Current, 0
+0x251, Time, 14876, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 14888, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14892, AC Current, 0, DC Current, 0
+0x251, Time, 14896, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 14908, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14912, AC Current, 0, DC Current, 0
+0x251, Time, 14916, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 14928, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14932, AC Current, 0, DC Current, 0
+0x251, Time, 14936, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 14948, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14952, AC Current, 0, DC Current, 0
+0x683, Time, 14953, High Cell Voltage, 38700, Low Cell Voltage, 37361, Average Cell Voltage 56832
+0x682, Time, 14953, Pack Amphours, 169, Internal Temp, 24
+0x681, Time, 14953, Input Supply Voltage, 119, Pack Current, 0
+0x680, Time, 14954, Relay State 1, 0x10, Relay State 2, 0x41, Failsafe Status 1, 0x0, Failsafe Status 2, 0x0, Pack Instant Voltage, 3452, Pack SOC, 80
+0x251, Time, 14956, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 14968, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14972, AC Current, 0, DC Current, 0
+0x251, Time, 14976, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 14988, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 14992, AC Current, 0, DC Current, 0
+0x251, Time, 14996, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
+0x051, Time, 15008, ERPM, 0, MC Input Voltage, 1
+0x151, Time, 15012, AC Current, 0, DC Current, 0
+0x251, Time, 15016, Controller Temp, 370, Motor Temp, 389, Fault Code, 2
