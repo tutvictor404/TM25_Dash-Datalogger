@@ -4,7 +4,9 @@ This repository will outline the background and design decisions associated with
 TM25 has two main modules (the motor controller and the battery management system) that are capable of communicating various information about themselves, as well as having the ability of being controlled via a CANbus line. 
 This design aims to read the CANbus and to decode the various information that the these systems can transmit. Furthermore, the information is to be shown on a display and logged onto an SD card. Future development can
 include the wireless transmission of this information to a base station for real-time analysis from outside the car. For this implementation, a Teensy 4.1 is used as it has an SD card slot built in, and supports
-all the required functionality.
+all the required functionality. Additionally, most Arduino libraries are compatible with the Teensy, allowing for quick implementations of designs, and access to documentation.
+
+![Physical](/Images/dash_display.png)  
 ## Design
 ### Vehicle Display  
 The display that is used on the vehicle is a Nextion NX8048T050. This is a 5" display capable of interfacing with an Arduino/Teensy via its serial ports and has touchscreen functionality. Nextion an editor software: 
